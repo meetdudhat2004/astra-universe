@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Milky Way - Spiral Galaxy
+* source:	https://sketchfab.com/3d-models/the-milky-way-spiral-galaxy-c35a5a9dec5c48f2a09fc295a1a5a2ce
+* author:	XURUU (https://sketchfab.com/XURUU)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Milky Way - Spiral Galaxy" (https://sketchfab.com/3d-models/the-milky-way-spiral-galaxy-c35a5a9dec5c48f2a09fc295a1a5a2ce) by XURUU (https://sketchfab.com/XURUU) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
